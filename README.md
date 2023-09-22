@@ -1,4 +1,4 @@
-BST
+Binary Search Tree
 =========
 
 Good work pledge
