@@ -1,5 +1,17 @@
 # Project: Binary Search Tree
 
+## Table of Contents
+
+- [Project: Binary Search Tree](#project-binary-search-tree)
+  - [Good work pledge](#good-work-pledge)
+  - [Getting started](#getting-started)
+  - [Background](#background)
+    - [Node](#node)
+    - [BST](#bst)
+  - [The Project](#the-project)
+  - [Committing your Changes and Turning In The Project](#committing-your-changes-and-turning-in-the-project)
+  - [Grading](#grading)
+
 ## Good work pledge
 
 We are here to broaden your exposure to Computer Science. We can only achieve that purpose when you work hard and honestly. It may be tempting to copy-paste code from a classmate, or let a classmate do all your work for you—don't! You will be cheating yourself from the most valuable thing course has to offer—overcoming challenges.
