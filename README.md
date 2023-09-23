@@ -1,4 +1,4 @@
-Binary Search Tree
+Project: Binary Search Tree
 =========
 
 Good work pledge
