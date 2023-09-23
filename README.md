@@ -1,8 +1,7 @@
-Project: Binary Search Tree
-=========
+# Project: Binary Search Tree
 
-Good work pledge
------
+## Good work pledge
+
 We are here to broaden your exposure to Computer Science. We can only achieve that purpose when you work hard and honestly. It may be tempting to copy-paste code from a classmate, or let a classmate do all your work for you—don't! You will be cheating yourself from the most valuable thing course has to offer—overcoming challenges.
 
 We know that hard, and honest work doesn't come easily. If you feel like you are falling behind:
@@ -11,10 +10,10 @@ We know that hard, and honest work doesn't come easily. If you feel like you are
 2. Ask for help!
 3. Tell the teaching-team you need more time
 
-Getting started
------
+## Getting started
+
 1. Go to the provided assignment link, and click accept. It should take you to your project page.
-  (If it doesn't, click on the link above again, and click on the link to the project page).
+   (If it doesn't, click on the link above again, and click on the link to the project page).
 2. On the GitHub project page, click on the green "Clone or Download" button and copy the link.
 3. Open Intellij, click on the "Checkout from Version Control" drop down and select "GitHub"
 4. On the next page paste the link you copied into the "Git Repository URL" box.
@@ -22,8 +21,8 @@ Getting started
 6. If it asks you whether you want to open the project or not, select yes.
 7. You should see your project open. If you need to reopen the project, you should see it under "File > Open Recent"
 
-Background
------
+## Background
+
 Binary search trees are a powerful data structure for storing sorted data. Binary search trees often use recursive algorithms
 as each node of the BST is the "root" of a subtree.
 
@@ -36,28 +35,27 @@ This class is implemented for you. Feel free to add accessors or mutators to the
 This class utilizes the functionality of the Node class to create Binary Search Trees, modify Binary
 Search Trees, and traverse Binary Search Tress.
 
+## The Project
 
-The Project
------
 In this project, you will be implementing functionality to manipulate and fill BSTs.
-
 
 These are the functions you will implement:
 
 - In BST.java:
-    - **contains** (hint: the Img class provides mechanisms to load and save, use those rather than trying to come up with special logic)
-    - **displayPreOrder** (and helper)
-    - **displayInOrder** (and helper)
-    - **displayPostOrder** (and helper)
-    - **add** (and helper)
-    - **remove** (and helper)
+
+  - **contains** (hint: the Img class provides mechanisms to load and save, use those rather than trying to come up with special logic)
+  - **displayPreOrder** (and helper)
+  - **displayInOrder** (and helper)
+  - **displayPostOrder** (and helper)
+  - **add** (and helper)
+  - **remove** (and helper)
 
 - In BSTTest.java
 
 Start off by implementing all the RGB methods as nothing else will work until this is done. Then we suggest starting to implenting the methods in ImageManipulator; the first three are the easiest, the next two are a bit more difficult, and the last four rather tough. Note that you will want to implement all the methods in the HSL class before proceeding to the last three methods in ImageManipulator.
 
-Committing your Changes and Turning In The Project
------
+## Committing your Changes and Turning In The Project
+
 The same instructions with screenshots are in the OneNote at the bottom of the page [here](https://holynamesseattle.sharepoint.com/sites/Section_6558/_layouts/OneNote.aspx?id=%2Fsites%2FSection_6558%2FSiteAssets%2FProjects%20in%20Comp%20Sci%20-%20Mon-Wed%2019-20%20Notebook&wd=target%28Class%20Overview.one%7C74AD5220-0070-4A9A-BD5E-85B1624E453C%2FGetting%20Started%20With%20A%20Project%7C127DA7EC-BEEC-4463-BE97-A79C378AD455%2F%29).
 
 At the end of every class period, you should commit your changes. "Committing your changes" is basically a fancy way of saving the changes you made. It is very important and useful for two reasons:
@@ -73,13 +71,13 @@ You can commit and push ("push" means send it to GitHub.com to save it there) by
 4. Go to your project page on GitHub, and make sure that your changes are there.
 5. That's it. The last change you submit before the deadline will be considered your turned in assignment. You can turn in additional submissions after the deadline, but remember that there is a 10% penalty added each week after the deadline you turn in the assignment.
 
-# Grading
+## Grading
 
 Your grade for each project will fall into one of four categories:
 
-| Grade Level         | Explanation |
-| :------------------ |:----------- |
-| *Exceeds Expectations*        | <ul><li>Quality is outstanding.</li></ul> |
-| *Excellent*                   | <ul><li>Overall quality is high.</li></ul> |
-| *Satisfactory*                | <ul><li>Overall quality is good.</li><li>Improvements can be made to bring the quality up to <i>Excellent</i>.</li></ul> |
-| *Needs Improvement*           | <ul><li>Overall quality is not yet high enough and the submission will not be accepted.</li><li>Improvements must be made to bring the quality up to at least <i>Satisfactory</i>.</li></ul> |
+| Grade Level            | Explanation                                                                                                                                                                                  |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _Exceeds Expectations_ | <ul><li>Quality is outstanding.</li></ul>                                                                                                                                                    |
+| _Excellent_            | <ul><li>Overall quality is high.</li></ul>                                                                                                                                                   |
+| _Satisfactory_         | <ul><li>Overall quality is good.</li><li>Improvements can be made to bring the quality up to <i>Excellent</i>.</li></ul>                                                                     |
+| _Needs Improvement_    | <ul><li>Overall quality is not yet high enough and the submission will not be accepted.</li><li>Improvements must be made to bring the quality up to at least <i>Satisfactory</i>.</li></ul> |
