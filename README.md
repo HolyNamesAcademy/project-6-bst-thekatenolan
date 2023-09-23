@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Project: Binary Search Tree](#project-binary-search-tree)
+  - [Table of Contents](#table-of-contents)
   - [Good work pledge](#good-work-pledge)
   - [Getting started](#getting-started)
   - [Background](#background)
